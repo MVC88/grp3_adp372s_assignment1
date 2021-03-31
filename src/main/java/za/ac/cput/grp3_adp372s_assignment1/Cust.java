@@ -1,5 +1,9 @@
 package za.ac.cput.grp3_adp372s_assignment1;
 
+/*
+* Muhammad Yaasin Cole
+* 218340869
+* */
 public class Cust {
 
     private String custName;
